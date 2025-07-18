@@ -5,7 +5,7 @@
   <p><strong>Enhanced Advanced CLI Search Tool for Terminal Power Users</strong></p>
   <p>A comprehensive search interface for macOS/Linux terminal with smart path handling, improved search capabilities, and custom editor integration</p>
   
-  ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+  ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
   ![License](https://img.shields.io/badge/license-MIT-green.svg)
   ![Platform](https://img.shields.io/badge/platform-macOS%20|%20Linux-orange.svg)
   ![Shell](https://img.shields.io/badge/shell-bash%20|%20zsh-yellow.svg)
